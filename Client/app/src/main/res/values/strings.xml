@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="mainActionCamera">Camera</string>
+    <string name="mainActionSearch">Search</string>
+    <string name="enter_button_dialog">Enter</string>
+    <string name="enter_message_editText_dialog">Enter message</string>
+    <string name="user">USER:</string>
+    <string name="name">Name</string>
+    <string name="welcome_to_chat_app">WELCOME TO CHAT APP</string>
+    <string name="log_in_button">LOG IN</string>
+    <string name="textview_time_right">TextView</string>
+    <string name="test_text_here">Test text here</string>
+    <string name="adrew">Adrew</string>
+    <string name="test_day_text">test day text</string>
+    <string name="toolbar_text">ToolBar Text</string>
+    <string name="user_hung_has_logged_in">User Hung has logged in</string>
+    <string name="right_message">Right message</string>
+</resources>
